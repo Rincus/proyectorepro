@@ -20,3 +20,5 @@ dat_clean <- dat %>%
 # Write clean data
 dat_clean %>%
   readr::write_rds("outputs/linelist_clean.rds")
+#ignorar base de datos intermedia /(regenerable)
+outpts/*
