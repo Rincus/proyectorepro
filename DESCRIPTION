@@ -1,0 +1,18 @@
+Package: proyectorepro
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Francisca",
+           family  = "Valdebenito",
+           role    = c("aut", "cre", "cph"),
+           email   = "fmvaldebenito@uc.cl",
+           comment = c(ORCID = "https://orcid.org/0000-0002-0059-4334")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/Rincus/proyectorepro
+BugReports: https://github.com/Rincus/proyectorepro/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
